@@ -1,5 +1,5 @@
 # Todolist RESTful API kata
-[六角]2024 Nodo.js 企業專題班 - Todolist RESTful API kata
+[六角]2024 Node.js 企業專題班 - Todolist RESTful API kata
 
 [[API URL]https://node-todolist-api.onrender.com/](https://node-todolist-api.onrender.com/)
 
